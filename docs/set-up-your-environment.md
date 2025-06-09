@@ -1,4 +1,6 @@
----
+export ANDROID_HOME=$HOME/Android/Sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/platform-tools---
 id: set-up-your-environment
 title: Set Up Your Environment
 hide_table_of_contents: true
